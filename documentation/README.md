@@ -39,6 +39,12 @@ The project aims to develop a comprehensive Blood Donation Management System tha
 
 ---
 
+## Acthors
+- Donor
+- Staff
+
+
+---
 
 ## Functional requirements
 
@@ -103,3 +109,40 @@ The project aims to develop a comprehensive Blood Donation Management System tha
 
 ### Donor Mobile Applicatio:
 - Enable donors to access information about campaigns, manage non-sensitive personal information, and view blood donation history or status through a mobile app.
+
+---
+
+## Use Case Diagram
+![ER Diagram](./use_case_diagram.jpg)
+---
+
+## Database
+
+### ER Diagram
+![ER Diagram](./er_diagram.jpg)
+
+
+### Tables
+- Country
+- State
+- user (donnor or staff)
+- blood type
+- donor
+- MedicalHistory
+- Allergies
+- DonorEmergencyContact
+- DonorEmergencyContactRelationship
+- donation facilities
+- donation
+- blood unit
+- Componet
+- blood component
+- recipient
+- transfusion
+- Organization
+- Canpaingn
+- OrganizationCanpaingn
+
+
+
+	
